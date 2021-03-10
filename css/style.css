@@ -1,0 +1,73 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+div.container-fluid{
+    margin-left: 10%;
+}
+
+div.navbar-nav{
+    margin-left: 53%;
+}
+
+button.btn.btn-primary{
+    background-color: #FCA311;
+    border: none;
+    color: #14213D;
+    font-weight: 600; 
+    margin-left: 1%;
+}
+
+a.nav-link{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+div.bio{
+    width: 1080px;
+    height: 400px;
+    display: table-cell;
+    vertical-align: middle
+}
+
+p.text1{
+    font-size: 40px;
+    font-weight: 200;
+    margin: 0;
+    margin-left: 15%;
+}
+
+p.text2{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+    margin-left: 15%;
+}
+
+p.text3{
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+    margin-left: 15%;
+}
+
+p.text4{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+a.instagram{
+    margin-left: 15%;
+}
+
+a{
+    color: #14213D;
+}
+
+a:hover {
+    color: #FCA311;
+}
+
+div.row{
+    margin-left: 3%;
+}
