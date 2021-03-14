@@ -85,3 +85,47 @@ div.modal-header{
 p.card-text{
     font-weight: bold;
 }
+
+div.chamar-cliente{
+    height: 285px;
+    background-color: #14213D;
+    color: white;
+    align-content: center;
+}
+
+div.chamar-cliente h1{
+    padding: 5%;
+    margin-left: 7em;
+}
+
+div.chamar-cliente button{
+    margin-left: 35em;
+    border-radius: 3px;
+    background-color: #FCA311;
+    border: none;
+    color: #14213D;
+    font-weight: 600; 
+    padding: .375rem .75rem;
+}
+
+footer.rodape{
+    padding-top: 5%;
+}
+
+a.brand-footer{
+    margin-left: 37em;
+}
+
+div.icons-social{
+    padding-top: 3em;
+    margin-left: 27em;
+}
+
+footer.rodape p{
+    padding-top: 5%;
+    margin-left: 31em;
+}
+
+a.topo-navbar{
+    margin-left: 30em;
+}
