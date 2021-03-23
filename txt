@@ -1,0 +1,33 @@
+<div class="title-contato">
+        <H1>Contatos</H1>
+        <p>Se sinta a vontade de entrar em contato comigo</p>
+    </div>
+
+
+    <div class="email-contato">
+        <a href="mailto:dudusantosap@gmail.com?Subject=">
+            <span class="iconify" data-icon="dashicons:email-alt" data-inline="false"></span>
+            <p>dudusantosap@gmail.com</p>
+        </a>
+    </div>
+    
+
+    <div class="whatsapp-contato">
+        <a href="https://wa.me/5585999819822">
+            <span class="iconify" data-icon="ri:whatsapp-fill" data-inline="false"></span>
+            <p>(85) 9 9981-9822</p>
+        </a>
+    </div>
+    
+    <footer class="rodape">
+      <a class="brand-footer" href="#">
+        <img src="/images/logo.svg" alt="" width="50" height="50">
+      </a>
+      <div class="icons-social">
+        <a class="instagram" href="" target="_blank"><span class="iconify" data-inline="false" data-icon="mdi:instagram" style="font-size: 35px;"></span></a>
+        <a class="behance" href="https://www.behance.net/dudusantoss" target="_blank"><span class="iconify" data-inline="false" data-icon="zmdi:behance" style="font-size: 31.11111068725586px;"></span></a>
+        <a class="dribbble" href="https://dribbble.com/DudsSantos" target="_blank"><span class="iconify" data-inline="false" data-icon="zmdi:dribbble" style="font-size: 35px;"></span></a>
+        <a class="topo-navbar" href="#navbar"><img src="/images/up-arrow.svg" alt="" width="50" height="50"></a>
+      </div>
+      <p>Copyright © | Eduardo Santos | i love UX/UI Design</p>
+    </footer>
