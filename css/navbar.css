@@ -1,11 +1,129 @@
 div.container-fluid{
-    margin-left: 9%;
+    max-width: 1300vh;
+    left: 0;
+    right: 0;
+}
+
+a:hover{
+    color: #FCA311
 }
 
 div.navbar-nav{
-    margin-left: 69%;
+    margin-left: 51vw;
 }
 
 .navbar-brand{
-    margin-right: 0;
+    margin-left: 16vw;
+}
+
+div.collapse navbar-collapse{
+    max-width: 1920px;
+}
+
+@media (min-width: 768px){
+    div.container-fluid{
+        max-width: 1300vh;
+        left: 0;
+        right: 0;
+    }
+    
+    a:hover{
+        color: #FCA311
+    }
+    
+    div.navbar-nav{
+        margin-left: 51vw;
+    }
+    
+    .navbar-brand{
+        margin-left: 7vw;
+    }
+    
+    div.collapse{
+        margin-left: 6.5vw;
+    }
+
+    button.navbar-toggler{
+        margin-right: 7.5vw;
+    }
+}
+
+@media (min-width: 1024px){
+    div.container-fluid{
+        max-width: 1300vh;
+        left: 0;
+        right: 0;
+    }
+    
+    a:hover{
+        color: #FCA311
+    }
+    
+    div.navbar-nav{
+        margin-left: 51vw;
+    }
+    
+    .navbar-brand{
+        margin-left: 7vw;
+    }
+    
+    div.collapse{
+        margin-left: 48vw;
+    }
+
+    button.navbar-toggler{
+        margin-right: 7.5vw;
+    }
+}
+
+@media (min-width: 1280px){
+    div.container-fluid{
+        max-width: 1300vh;
+        left: 0;
+        right: 0;
+    }
+    
+    a:hover{
+        color: #FCA311
+    }
+    
+    div.navbar-nav{
+        margin-left: 51vw;
+    }
+    
+    .navbar-brand{
+        margin-left: 11vw;
+    }
+    
+    div.collapse{
+        margin-left: 48vw;
+    }
+
+    button.navbar-toggler{
+        margin-right: 7.5vw;
+    }
+}
+
+@media (min-width: 1920px){
+    div.container-fluid{
+        max-width: 1300vh;
+        left: 0;
+        right: 0;
+    }
+    
+    a:hover{
+        color: #FCA311
+    }
+    
+    div.navbar-nav{
+        margin-left: 51vw;
+    }
+    
+    .navbar-brand{
+        margin-left: 16vw;
+    }
+    
+    div.collapse navbar-collapse{
+        max-width: 1920px;
+    }
 }
