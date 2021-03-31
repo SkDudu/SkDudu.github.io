@@ -89,7 +89,7 @@ footer.rodape p{
     margin-left: 40vw;
 }
 
-@media (min-width: 768px){
+@media (min-width: 375px){
     body{
         font-family: 'Quicksand', sans-serif;
     }
@@ -109,7 +109,7 @@ footer.rodape p{
     
     div.bio{
         max-width: 1300vh;
-        height: 400px;
+        height: 325px;
     }
     
     p.text1{
@@ -154,6 +154,109 @@ footer.rodape p{
         font-weight: 700;
         font-size: large;
     }
+
+    div.col-6{
+        width: 100%;
+    }
+    
+    .modal-content{
+        background-clip: none;
+    }
+    
+    p.card-text{
+        font-weight: bold;
+    }
+    
+    footer.rodape{
+        padding-top: 5%;
+    }
+    
+    a.brand-footer{
+        margin-left: 44vw;
+    }
+    
+    div.icons-social{
+        padding-top: 3em;
+        margin-left: 26vw;
+    }
+    
+    footer.rodape p{
+        font-size: small;
+        padding-top: 5%;
+        margin-left: 10vw;
+    }
+}
+
+@media (min-width: 768px){
+    body{
+        font-family: 'Quicksand', sans-serif;
+    }
+    
+    button.btn.btn-primary{
+        background-color: #FCA311;
+        border: none;
+        color: #14213D;
+        font-weight: 600; 
+        margin-left: 1%;
+    }
+    
+    a.nav-link{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    
+    div.bio{
+        max-width: 1300vh;
+        height: 400px;
+    }
+    
+    p.text1{
+        font-size: 40px;
+        font-weight: 200;
+        margin: 0;
+        margin-left: 10vw;
+        margin-top: 5vh;
+    }
+    
+    p.text2{
+        font-size: 40px;
+        font-weight: 700;
+        margin: 0;
+        margin-left: 10vw;
+    }
+    
+    p.text3{
+        font-size: 40px;
+        font-weight: 500;
+        margin: 0;
+        margin-left: 10vw;
+    }
+    
+    p.text4{
+        margin-left: 10vw;
+        margin-top: 5%;
+    }
+    
+    a.instagram{
+        margin-left: 10vw;
+    }
+    
+    a{
+        color: #14213D;
+    }
+    
+    a:hover {
+        color: #FCA311;
+    }
+    
+    div.modal-header{
+        font-weight: 700;
+        font-size: large;
+    }
+
+    div.col-6{
+        width: 50%;
+    }
     
     .modal-content{
         background-clip: none;
@@ -177,6 +280,7 @@ footer.rodape p{
     }
     
     footer.rodape p{
+        font-size: medium;
         padding-top: 5%;
         margin-left: 27vw;
     }
@@ -210,6 +314,7 @@ footer.rodape p{
         font-weight: 200;
         margin: 0;
         margin-left: 9vw;
+        margin-top: 5vh;
     }
     
     p.text2{
@@ -247,6 +352,10 @@ footer.rodape p{
         font-weight: 700;
         font-size: large;
     }
+
+    div.col-6{
+        width: 50%;
+    }
     
     .modal-content{
         background-clip: none;
@@ -270,6 +379,7 @@ footer.rodape p{
     }
     
     footer.rodape p{
+        font-size: medium;
         padding-top: 5%;
         margin-left: 32vw;
     }
@@ -303,6 +413,7 @@ footer.rodape p{
         font-weight: 200;
         margin: 0;
         margin-left: 12.8vw;
+        margin-top: 5vh;
     }
     
     p.text2{
@@ -340,6 +451,10 @@ footer.rodape p{
         font-weight: 700;
         font-size: large;
     }
+
+    div.col-6{
+        width: 50%;
+    }
     
     .modal-content{
         background-clip: none;
@@ -363,8 +478,108 @@ footer.rodape p{
     }
     
     footer.rodape p{
+        font-size: medium;
         padding-top: 5%;
         margin-left: 35vw;
+    }
+}
+
+@media (min-width: 1280px){
+    body{
+        font-family: 'Quicksand', sans-serif;
+    }
+    
+    button.btn.btn-primary{
+        background-color: #FCA311;
+        border: none;
+        color: #14213D;
+        font-weight: 600; 
+        margin-left: 1%;
+    }
+    
+    a.nav-link{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    
+    div.bio{
+        max-width: 1300vh;
+        height: 400px;
+    }
+    
+    p.text1{
+        font-size: 40px;
+        font-weight: 200;
+        margin: 0;
+        margin-left: 12.8vw;
+        margin-top: 5vh;
+    }
+    
+    p.text2{
+        font-size: 40px;
+        font-weight: 700;
+        margin: 0;
+        margin-left: 12.8vw;
+    }
+    
+    p.text3{
+        font-size: 40px;
+        font-weight: 500;
+        margin: 0;
+        margin-left: 12.8vw;
+    }
+    
+    p.text4{
+        margin-left: 12.8vw;
+        margin-top: 5%;
+    }
+    
+    a.instagram{
+        margin-left: 12.8vw;
+    }
+    
+    a{
+        color: #14213D;
+    }
+    
+    a:hover {
+        color: #FCA311;
+    }
+    
+    div.modal-header{
+        font-weight: 700;
+        font-size: large;
+    }
+
+    div.col-6{
+        width: 50%;
+    }
+    
+    .modal-content{
+        background-clip: none;
+    }
+    
+    p.card-text{
+        font-weight: bold;
+    }
+    
+    footer.rodape{
+        padding-top: 5%;
+    }
+    
+    a.brand-footer{
+        margin-left: 47.5vw;
+    }
+    
+    div.icons-social{
+        padding-top: 3em;
+        margin-left: 32.5vw;
+    }
+    
+    footer.rodape p{
+        font-size: medium;
+        padding-top: 5%;
+        margin-left: 36vw;
     }
 }
 
@@ -396,6 +611,7 @@ footer.rodape p{
         font-weight: 200;
         margin: 0;
         margin-left: 17vw;
+        margin-top: 5vh;
     }
     
     p.text2{
@@ -433,6 +649,10 @@ footer.rodape p{
         font-weight: 700;
         font-size: large;
     }
+
+    div.col-6{
+        width: 50%;
+    }
     
     .modal-content{
         background-clip: none;
@@ -456,6 +676,7 @@ footer.rodape p{
     }
     
     footer.rodape p{
+        font-size: medium;
         padding-top: 5%;
         margin-left: 40vw;
     }

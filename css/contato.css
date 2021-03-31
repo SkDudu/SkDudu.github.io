@@ -70,3 +70,78 @@ div.whatsapp-contato svg{
     width: 35px; 
     height: 35px; 
 }
+
+@media (min-width: 1920px){
+    div.title-contato{
+        padding-top: 3em;
+    }
+    
+    div.title-contato h1{
+        margin-left: 17vw;
+    }
+    
+    div.title-contato p{
+        margin-left: 17vw
+    }
+    
+    div.email-contato{
+        align-items: center;
+        width: 300px;
+        height: 50px;
+        display: flex;
+        margin-left: 17vw;
+        background-color: #14213D;
+        border-radius: 0.25em;
+        margin-bottom: 1em;
+    }
+    
+    div.email-contato p{
+        margin: 0;
+        margin-left: 1em;
+    }
+    
+    div.email-contato a{
+        width: 300px;
+        color: white;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+    
+    div.email-contato svg{
+        margin-left: 1em;
+    }
+    
+    div.whatsapp-contato{
+        align-items: center;
+        width: 300px;
+        height: 50px;
+        display: flex;
+        margin-left: 17vw;
+        background-color: #14213D;
+        color: white;
+        border-radius: 0.25em;
+    }
+    
+    div.whatsapp-contato p{
+        margin: 0;
+        margin-left: 1em;
+    }
+    
+    div.whatsapp-contato a{
+        width: 300px;
+        color: white;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+    
+    div.whatsapp-contato svg{
+        margin-left: 1em;
+    }
+    
+    .iconify { 
+        width: 35px; 
+        height: 35px; 
+    }
+}

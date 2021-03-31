@@ -1,7 +1,59 @@
-div.title-Portifolio h1{
-    margin-left: 3.5em;
+@media (min-width: 375px){
+    div.title-Portifolio h1{
+        margin-left: 9vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 9vw;
+    }
 }
 
-div.title-Portifolio p{
-    margin-left: 8.7em;
+@media (min-width: 768px){
+    div.title-Portifolio h1{
+        margin-left: 9vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 9vw;
+    }
+}
+
+@media (min-width: 1024px){
+    div.title-Portifolio h1{
+        margin-left: 9vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 9vw;
+    }
+}
+
+@media (min-width: 1280px){
+    div.title-Portifolio h1{
+        margin-left: 12.5vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 12.5vw;
+    }
+}
+
+@media (min-width: 1366px){
+    div.title-Portifolio h1{
+        margin-left: 12.5vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 12.5vw;
+    }
+}
+
+@media (min-width: 1920px){
+    div.title-Portifolio h1{
+        margin-left: 17vw;
+    }
+    
+    div.title-Portifolio p{
+        margin-left: 17vw;
+    }
 }
